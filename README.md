@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yadav.shikha.ys@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/shikha-999/shikha-999/blob/main/Shikha_Yadav_Resume.pdf](https://github.com/shikha-999/shikha-999/blob/main/Shikha_Yadav_Resume.pdf)
+- 📄 Know about my experiences [https://github.com/shikha-999/shikha-999/blob/main/Shikha%20Yadav%20Resume.pdf](https://github.com/shikha-999/shikha-999/blob/main/Shikha%20Yadav%20Resume.pdf)
 
 - ⚡ Fun fact **I am an Artist**
 
