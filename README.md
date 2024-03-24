@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shikha Yadav</h1>
+![image](https://github.com/shikha-999/shikha-999/assets/89742115/41836274-d463-4d1f-a2d5-d264591ac73a)<h1 align="center">Hi 👋, I'm Shikha Yadav</h1>
 <h3 align="center">A passionate Backend Developer and Problem Solver from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikha-999&label=Profile%20views&color=0e75b6&style=flat" alt="shikha-999" /> </p>
@@ -65,9 +65,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikha-999&show_icons=true&locale=en" alt="shikha-999" /></p>
 
+<table align = "center">
+  <tbody>
+    <tr>
+      <td>
+       <a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shikha-999&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikha-999&" alt="shikha-999" /></p>
 
 <div align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f288227570c6bfc2ab13f73af12ca8110b0d0efb9dc5e6a5cd9f52e8fbd75ef5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3136302673656374696f6e3d666f6f746572"><img width="100%" alt="colored gif" src="https://camo.githubusercontent.com/f288227570c6bfc2ab13f73af12ca8110b0d0efb9dc5e6a5cd9f52e8fbd75ef5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3136302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=160&amp;section=footer" style="max-width: 100%;"></a>
@@ -75,6 +82,9 @@
 
 
 
+
 <div align="center" dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bec8e1dcad627b433ecca5a84dfa68c128aa35917a5385d2cbf9bc0021798d28/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d416e746f6e267765696768743d3630302673697a653d3136266475726174696f6e3d323530302670617573653d3126636f6c6f723d3030423842352663656e7465723d74727565267643656e7465723d747275652677696474683d313835266865696768743d3135266c696e65733d2543322541392b4255494c442b574954482b2545322539442541342545462542382538463b2543322541392b4255494c442b42592b4d4f4e544153494d"><img src="https://camo.githubusercontent.com/bec8e1dcad627b433ecca5a84dfa68c128aa35917a5385d2cbf9bc0021798d28/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d416e746f6e267765696768743d3630302673697a653d3136266475726174696f6e3d323530302670617573653d3126636f6c6f723d3030423842352663656e7465723d74727565267643656e7465723d747275652677696474683d313835266865696768743d3135266c696e65733d2543322541392b4255494c442b574954482b2545322539442541342545462542382538463b2543322541392b4255494c442b42592b4d4f4e544153494d" alt="build with love svg" data-canonical-src="https://readme-typing-svg.demolab.com?font=Anton&amp;weight=600&amp;size=16&amp;duration=2500&amp;pause=1&amp;color=00B8B5&amp;center=true&amp;vCenter=true&amp;width=185&amp;height=15&amp;lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+MONTASIM" style="max-width: 100%;"></a>
+      <a   align="center" target="_blank" rel="noopener noreferrer nofollow href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=CABB10&random=false&width=435&lines=Build+by+Shikha;Build+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+
+
 </div>
