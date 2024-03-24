@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shikhayadav-11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shikhayadav-11/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/yadav_shikha_ys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/yadav_shikha_ys" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shikhayadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shikhayadav/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shikhayadav-11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shikhayadav-11" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yadav_shikha_ys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yadav_shikha_ys" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shikhayadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shikhayadav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
