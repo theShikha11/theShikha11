@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shikha-999" alt="shikha-999" /></a> </p>
 
+<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/raw/main/developer.gif" alt="Hola Coders" height="350" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 - 🔭 I’m currently working on **Java Backend Development**
 
 - 🌱 I’m currently learning **Machine Coding on Java**
