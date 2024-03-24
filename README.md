@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shikha-999](https://github.com/shikha-999)
 
-- 💬 Ask me about **DSA, DBMS, Machine Coding, Java and SpringBoot**
+- 💬 Ask me about **DSA, DBMS, Machine Coding, Java, SpringBoot, Scala, IRPA and SAP ABAP**
 
 - 📫 How to reach me **yadav.shikha.ys@gmail.com**
 
