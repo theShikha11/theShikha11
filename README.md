@@ -89,11 +89,7 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f288227570c6bfc2ab13f73af12ca8110b0d0efb9dc5e6a5cd9f52e8fbd75ef5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3136302673656374696f6e3d666f6f746572"><img width="100%" alt="colored gif" src="https://camo.githubusercontent.com/f288227570c6bfc2ab13f73af12ca8110b0d0efb9dc5e6a5cd9f52e8fbd75ef5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3136302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=160&amp;section=footer" style="max-width: 100%;"></a>
 </div>
 
-
-
-<p>
-<div align="center">
-      <a   align="center" target="_blank" rel="noopener noreferrer nofollow href="https://git.io/typing-svg">
-            <img align = "center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=37CDC1&random=false&width=435&lines=Build+by+Shikha!;Build+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
-</div></p>
+<div align="center" dir="auto">
+     <a align="center" target="_blank" rel="noopener noreferrer nofollow href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=300&color=37CDC1&center=true&vCenter=true&random=false&width=435&lines=Build+by+SHIKHA!;Build+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+</div>
 
