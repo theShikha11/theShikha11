@@ -11,7 +11,8 @@
         </a></span></animated-image></p>        
 
 <img align="right" src="https://github.com/shikha-999/shikha-999/blob/main/util/JXA0.gif" alt="Hola Coders" height="350" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<br><br><br>
+<br><br><be>
+
 - 🔭 I’m currently working on **Java Backend Development**
 
 - 🌱 I’m currently learning **Machine Coding on Java**
@@ -22,9 +23,9 @@
 
 - 📫 How to reach me **yadav.shikha.ys@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/shikha-999/shikha-999/blob/main/Shikha%20Yadav%20Resume.pdf](https://github.com/shikha-999/shikha-999/blob/main/Shikha%20Yadav%20Resume.pdf)
+- 📄 Know about my experiences [Shikha's resume](https://github.com/shikha-999/shikha-999/blob/main/Shikha%20Yadav%20Resume.pdf)
 
-- ⚡ Fun fact **I am an Artist**
+- ⚡ Fun fact **I am an Artist 🎨👩‍🎨**
 <br>
 <br>
 
@@ -90,9 +91,9 @@
 
 
 
+<p>
+<div align="center">
+      <a   align="center" target="_blank" rel="noopener noreferrer nofollow href="https://git.io/typing-svg">
+            <img align = "center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=37CDC1&random=false&width=435&lines=Build+by+Shikha;Build+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+</div></p>
 
-<div align="center" dir="auto">
-      <a   align="center" target="_blank" rel="noopener noreferrer nofollow href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=CABB10&random=false&width=435&lines=Build+by+Shikha;Build+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
-
-
-</div>
