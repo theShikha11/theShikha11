@@ -94,6 +94,6 @@
 <p>
 <div align="center">
       <a   align="center" target="_blank" rel="noopener noreferrer nofollow href="https://git.io/typing-svg">
-            <img align = "center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=37CDC1&random=false&width=435&lines=Build+by+Shikha;Build+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+            <img align = "center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=37CDC1&random=false&width=435&lines=Build+by+Shikha!;Build+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 </div></p>
 
